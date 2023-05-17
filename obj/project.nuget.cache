@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdrfKO3Di6oyMACtOzU2BepWEVMQdBWGNwvq3s1Hvn/SHMtrrK3A4wF2Mxj77jrqlZzdlywG5/TV5i5tyuSn3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marta Tonet\\Documents\\Estudos\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marta Tonet\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Marta Tonet\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Marta Tonet\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
